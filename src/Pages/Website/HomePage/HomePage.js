@@ -12,7 +12,7 @@ import { ShowLatestProducts } from "../../../Components/Website/Product/LatestPr
 export default function HomePage() {
   return (
     <div>
-      <Landing />
+      {/* <Landing /> */}
       <ShowLatestSaleProducts />
       <BeforeTopRated />
       <Container>
