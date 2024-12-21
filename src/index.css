@@ -1,0 +1,19 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.f-cairo {
+  font-family: "Cairo", sans-serif !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

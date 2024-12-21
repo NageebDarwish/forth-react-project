@@ -1,0 +1,7 @@
+.before-top-rated {
+  background-image: url(../../../Assets/images/sky.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  min-height: 300px;
+}
