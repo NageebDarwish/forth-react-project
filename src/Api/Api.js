@@ -1,4 +1,5 @@
-export const baseURL = "http://127.0.0.1:8000/api";
+export const baseURL =
+  "https://backend-course-production-3ce1.up.railway.app/api";
 
 export const REGISTER = "register";
 export const LOGIN = "login";
